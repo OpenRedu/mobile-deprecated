@@ -14,7 +14,7 @@ As bibliotecas usadas pelo redu android são:
 - [AndroidPushRequest](http://hub.buzzbox.com/android-sdk/): Enables you to easily add a scheduler to your App. With few lines of code you can add a background task and app-side notifications.
 - [WebCachedImageView](https://github.com/leocadiotine/WebCachedImageView): An `ImageView` capable of downloading images from the web and caching them for faster and offline access.
 
-# Contributing
+# Contributing (You are suposed to clone instead of fork)
 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
